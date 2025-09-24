@@ -17,6 +17,7 @@ Huge fan and supporter of Free and Open Software, as well as open knowledge. I a
 
 ### the tehcnologies on my belt
 **most comfortable with:**  
+
 ![C](https://img.shields.io/badge/-C-7E3AF2?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-7E3AF2?style=flat-square&logo=cpp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-7E3AF2?style=flat-square&logo=python&logoColor=white)
@@ -26,7 +27,7 @@ Huge fan and supporter of Free and Open Software, as well as open knowledge. I a
 **familiar to me:**
 ![Vivado](https://img.shields.io/badge/-Vivado-7E3AF2?style=flat-square&logo=&logoColor=white)
 ![Bambu HLS](https://img.shields.io/badge/-Bambu_HLS-7E3AF2?style=flat-square&logo=&logoColor=white)
->plus the daily usage of Markdown, Mermaid, Makefiles...
+plus the daily usage of Markdown, Mermaid, Makefiles...
 ---
 
 ### featured project
