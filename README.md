@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Sera 👋</h1>
+<h1 align="center">hey, nice to meet you! im sera</h1>
 <p align="center">
   systems enthusiast · CERN Summer Student 2025 · exploring quantum tech
 </p>
@@ -16,17 +16,17 @@ Huge fan and supporter of Free and Open Software, as well as open knowledge. I a
 ---
 
 ### the tehcnologies on my belt
-** most comfortable with: **  
+**most comfortable with:**  
 ![C](https://img.shields.io/badge/-C-7E3AF2?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-7E3AF2?style=flat-square&logo=cpp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-7E3AF2?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-7E3AF2?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-7E3AF2?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-7E3AF2?style=flat-square&logo=linux&logoColor=white) 
-** familiar to me: **
+
+**familiar to me:**
 ![Vivado](https://img.shields.io/badge/-Vivado-7E3AF2?style=flat-square&logo=&logoColor=white)
 ![Bambu HLS](https://img.shields.io/badge/-Bambu_HLS-7E3AF2?style=flat-square&logo=&logoColor=white)
-
 plus the daily usage of Markdown, Mermaid, Makefiles...
 ---
 
@@ -35,11 +35,9 @@ plus the daily usage of Markdown, Mermaid, Makefiles...
 #### [CERN / LHCb Summer Studentship](https://github.com/seraconti/acai)
 
 > A Python-based toolset built to support data acquistion workflows and data management for the LHCb collaboration.
-
 developed modular tools in `Python` with clean CLI and config-driven design
 integrated CERN tooling and workflows into user-friendly automation scripts
 wrote documentation and followed software engineering best practices
-
 But hey, dont let those 3 sentences describe it, go check it out ;)
 ---
 
