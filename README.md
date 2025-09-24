@@ -15,20 +15,23 @@ Huge fan and supporter of Free and Open Software, as well as open knowledge. I a
 
 ---
 
-### the tehcnologies on my belt
-**most comfortable with:**  
+### the technologies on my belt
 
-![C](https://img.shields.io/badge/-C-7E3AF2?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-7E3AF2?style=flat-square&logo=cpp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-7E3AF2?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-7E3AF2?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-7E3AF2?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-7E3AF2?style=flat-square&logo=linux&logoColor=white) 
-**familiar to me:**
-![Vivado](https://img.shields.io/badge/-Vivado-7E3AF2?style=flat-square&logo=&logoColor=white)
-![Bambu HLS](https://img.shields.io/badge/-Bambu_HLS-7E3AF2?style=flat-square&logo=&logoColor=white)
-plus the daily usage of Markdown, Mermaid, Makefiles...
----
+**most comfortable with:**  
+<br>
+![C](https://img.shields.io/badge/-C-7E3AF2?style=flat-square&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-7E3AF2?style=flat-square&logo=cpp&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-7E3AF2?style=flat-square&logo=python&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-7E3AF2?style=flat-square&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-7E3AF2?style=flat-square&logo=github&logoColor=white) 
+![Linux](https://img.shields.io/badge/-Linux-7E3AF2?style=flat-square&logo=linux&logoColor=white)  
+
+**familiar to me:**  
+<br>
+![Vivado](https://img.shields.io/badge/-Vivado-7E3AF2?style=flat-square&logo=&logoColor=white) 
+![Bambu HLS](https://img.shields.io/badge/-Bambu_HLS-7E3AF2?style=flat-square&logo=&logoColor=white)  
+
+<sub>plus the daily usage of Markdown, Mermaid, Makefiles...</sub>
 
 ### featured project
 
