@@ -23,11 +23,10 @@ Huge fan and supporter of Free and Open Software, as well as open knowledge. I a
 ![Git](https://img.shields.io/badge/-Git-7E3AF2?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-7E3AF2?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-7E3AF2?style=flat-square&logo=linux&logoColor=white) 
-
 **familiar to me:**
 ![Vivado](https://img.shields.io/badge/-Vivado-7E3AF2?style=flat-square&logo=&logoColor=white)
 ![Bambu HLS](https://img.shields.io/badge/-Bambu_HLS-7E3AF2?style=flat-square&logo=&logoColor=white)
-plus the daily usage of Markdown, Mermaid, Makefiles...
+>plus the daily usage of Markdown, Mermaid, Makefiles...
 ---
 
 ### featured project
