@@ -1,6 +1,6 @@
 <h1 align="center">hey, nice to meet you! im sera</h1>
 <p align="center">
-  systems enthusiast · CERN Summer Student 2025 · exploring quantum tech
+  systems enthusiast · CERN Summer Student 2025 · quantum tech
 </p>
 
 ---
@@ -10,7 +10,8 @@
 I'm a Master's student exploring the intersection of **hardware, software, and science** — from embedded systems to quantum technologies.
 
 On the summer of 2025, I completed a **CERN Summer Studentship** at **LHCb**, where I developed ACAI - An Automated Clock-Oriented Acquisition Infrastructure to support data acquisition of hardware testing for next LHCb updates.  
-I’m always interested on **system-wide views and architectures**, so far I have mostly explored **firmware**, **hardware/software co-design**, and some **network computing**. But I am always eager to new fields and currently focusing a bit on **quantum technologies**
+I’m always interested on **system-wide views and architectures**, so far I have mostly explored **firmware**, **hardware/software co-design**, and some **network computing**. But I am always eager to new fields and currently focusing on **quantum technologies**
+
 Huge fan and supporter of Free and Open Software, as well as open knowledge. I am certain that collaboration and transparency are the ways to make more science of more quality, and have more fun doing it :)
 
 ---
@@ -47,7 +48,8 @@ But hey, dont let those 3 sentences describe it, go check it out ;)
 ### currently exploring
 
 - 🔸 quantum computing foundations and system models  
-- 🔸 general computer security (green/white hat CTFs)
+- 🔸 quantum error correction
+- 🔸 quantum control and instrumentation
 - 🔸 compilers, HLS flows, and RTL design patterns
 
 ---
