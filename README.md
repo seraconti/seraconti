@@ -9,9 +9,9 @@
 
 I'm a computer engineer who works on the **systems** side of quantum computing, where hardware, software and the physics underneath have to fit together. Most of my track record is in **measurement and characterization**, from FPGA and acquisition work on physics experiments to analysing how a quantum device holds up over time, with code anyone can rerun and check. From there I'm interested in the whole stack :) especially quantum error correction and transpilation
 
-🔸 **TU Delft (2026):** as a visiting student, my MSc thesis worked on how long a quantum computer stays as good as its benchmarks say, and how much of its time goes to calibration and benchmarking. The analysis tool created is [QUEBRA](https://github.com/seraconti/quebra).
-🔸 **CERN, LHCb (2025):** summer student on the timing distribution test benches. I built [ACAI](https://github.com/seraconti/acai), data acquisition for their clock-stability tests, and co-authored the [RT2026 contribution](https://indico.global/event/14708/contributions/146606/) on this work.
-🔸 **CEPOF, USP (2023–24):** digital control on an FPGA for an atomic fountain clock, and a lot of Allan deviation plots.
+- **TU Delft (2026):** as a visiting student, my MSc thesis worked on how long a quantum computer stays as good as its benchmarks say, and how much of its time goes to calibration and benchmarking. The analysis tool created is [QUEBRA](https://github.com/seraconti/quebra).
+- **CERN, LHCb (2025):** summer student on the timing distribution test benches. I built [ACAI](https://github.com/seraconti/acai), data acquisition for their clock-stability tests, and co-authored the [RT2026 contribution](https://indico.global/event/14708/contributions/146606/) on this work.
+- **CEPOF, USP (2023–24):** digital control on an FPGA for an atomic fountain clock, and a lot of Allan deviation plots.
 
 MSc at Politecnico di Milano, BSc at Universidade de São Paulo (double degree).
 
